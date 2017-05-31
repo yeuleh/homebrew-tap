@@ -1,6 +1,6 @@
 require 'formula'
 
-class SchemaSpy < Formula
+class Schemaspy < Formula
   homepage 'http://schemaspy.sourceforge.net'
   version '5.0.0'
   url 'https://jaist.dl.sourceforge.net/project/schemaspy/schemaspy/SchemaSpy%205.0.0/schemaSpy_#{version}.jar'
